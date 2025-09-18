@@ -1,4 +1,5 @@
 # IGME-110-Repo
+
 # About Markdown
 
 ## I. History
@@ -26,11 +27,12 @@ How do I make:
 - and display images in a markdown document?
 
 
-## IV. Other 
-'''
+## IV. Other
+~~~
 const PI = 3.1415;
-let dumb = true;
-'''
+isdumb = true;
+~~~
 ![Dopey Smurf](https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240?cb=20180929070848)
 :joy:
-'const PI = 3.1415;'
+~~~
+const pi = 3.1415;
