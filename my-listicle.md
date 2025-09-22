@@ -1,21 +1,21 @@
-## These are **MY top 3 video games** from the last 5 years (Best will be at the top)
-#2025
+# These are **MY top 3 video games** from the last 5 years (Best will be at the top)
+##2025
   - **Clair Obscure: Expedition 33**
   - Hollow Knight: Silksong
   - Skate 4
-#2024
+##2024
   - **Black Myth: Wukong**
   - Balatro
   - FFVII Rebirth
-#2023
+##2023
   - **Baldur's Gate 3**
   - Pikmin 4
   - Marvel's Spiderman 2
-#2022
+##2022
   - **Xenoblade Chronicles 3**
   - Horizon Forbidden West
   - Stray
-#2021
+##2021
   - **Hades**
   - Metroid Dread
   - Spiderman
